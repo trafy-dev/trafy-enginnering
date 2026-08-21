@@ -1,9 +1,3 @@
 {
-  "version": 2,
-  "public": true,
-  "cleanUrls": true,
-  "routes": [
-    { "src": "/apply", "dest": "/apply.html" },
-    { "src": "/Presented_by_Trafy_ai.pdf", "dest": "/Presented_by_Trafy_ai.pdf" }
-  ]
+  "cleanUrls": true
 }
